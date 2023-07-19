@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'buyer',
     'reviews',
     'signup',
+    'vendor',
+    'customer'
     
 
 
